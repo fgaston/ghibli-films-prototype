@@ -1,0 +1,25 @@
+.container {
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.3);
+  margin: 10px;
+  width: calc(100% - 20px);
+  padding: 10px;
+  background-color: white;
+  border-radius: 2px;
+}
+
+.header {
+  font-style: 16px;
+  text-align: center;
+}
+
+.date {
+  margin-top: 3px;
+  margin-left: 3px;
+  font-size: 12px;
+}
+
+.description {
+  font-size: 11px;
+  font-style: italic;
+  text-align: justify;
+}

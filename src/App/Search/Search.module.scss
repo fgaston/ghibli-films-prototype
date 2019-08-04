@@ -1,0 +1,13 @@
+.container {
+  padding: 20px;
+  width: calc(100% - 40px);
+}
+
+.input {
+  width: calc(100% - 20px);
+  padding: 10px;
+  border-radius: 4px;
+  font-size: 16px;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.3);
+  border: none;
+}

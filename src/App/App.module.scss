@@ -1,0 +1,29 @@
+.App {
+  width: 100%;
+  max-width: 800px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+
+  > div {
+    width: 100%;
+  }
+
+  @media only screen and (max-width: 992px) {
+    max-width: 700px;
+  }
+
+  @media only screen and (max-width: 576px) {
+    max-width: 500px;
+  }
+}
+
+.Search {
+  width: 100%;
+}
+
+.Films {
+  padding: 20px;
+  width: calc(100% - 40px)
+}
