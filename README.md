@@ -14,7 +14,7 @@ Del lado del CSS utilicé a Flexbox para armar el grid pero si se puede definir 
 Para armar el build también se podría usar una configuración propia de Webpack en lugar de usar la configuración muy generica de create-react-app.
 
 ## Link al código
-[En este componente esta la conexión al API y el filtro de las peliculas](https://github.com/fgaston/ghibli-films-prototype/blob/master/src/App/App.js#L8)
+[En este componente esta la conexión al API y el filtro de las peliculas](https://github.com/fgaston/ghibli-films-prototype/blob/master/src/views/App/App.js#L8)
 
 ## Link a la aplicación
 [https://ghilbi-films.firebaseapp.com/](https://ghilbi-films.firebaseapp.com/)
